@@ -1,0 +1,21 @@
+button {
+  color: white;
+  background-color: rgb(206, 11, 11);
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 80px;
+}
+input {
+  background-color: rgba(112, 163, 18, 0.651);
+  cursor: pointer;
+  border-radius: 50px;
+  color: rgb(74, 17, 138);
+}
+h1 {
+  position: center;
+  color: black;
+  text-align: center;
+}
+body {
+  background-image: url();
+}
